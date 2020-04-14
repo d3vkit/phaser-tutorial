@@ -1,5 +1,24 @@
 {
+  "name": "phaser_tutorial",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/d3vkit/phaser-tutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/d3vkit/phaser-tutorial/issues"
+  },
+  "homepage": "https://github.com/d3vkit/phaser-tutorial#readme",
+  "description": "",
   "dependencies": {
+    "express": "^4.17.1",
     "phaser": "^3.22.0"
   }
 }
